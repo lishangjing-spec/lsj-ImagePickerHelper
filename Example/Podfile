@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'lsj-ImagePickerHelper_Example' do
+  pod 'lsj-ImagePickerHelper', :path => '../'
+
+  target 'lsj-ImagePickerHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
