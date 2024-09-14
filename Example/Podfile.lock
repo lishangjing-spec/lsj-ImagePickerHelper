@@ -1,0 +1,16 @@
+PODS:
+  - lsj-ImagePickerHelper (0.1.0)
+
+DEPENDENCIES:
+  - lsj-ImagePickerHelper (from `../`)
+
+EXTERNAL SOURCES:
+  lsj-ImagePickerHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lsj-ImagePickerHelper: fed1b494e04b981d6812ed5afd9a4bf5f1238ea1
+
+PODFILE CHECKSUM: d38a735e49f3d4dac4c02e2701e6abb63d009fa2
+
+COCOAPODS: 1.15.2
